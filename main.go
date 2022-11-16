@@ -18,4 +18,5 @@ func main(){
 	side := ac.Side{14813217673}
 	fmt.Printf("Area of square: %d\n", side.Area())
 	fmt.Printf("Perimeter of square: %d\n", side.Perimeter())
+	djifjfoijoiferjfoierjfer
 }
